@@ -1,0 +1,17 @@
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\obj\Debug\ContaTeste.csprojResolveAssemblyReference.cache
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\bin\Debug\ContaTeste.exe.config
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\bin\Debug\ContaTeste.exe
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\bin\Debug\ContaTeste.pdb
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\bin\Debug\Conta.dll
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\bin\Debug\Conta.pdb
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\obj\Debug\ContaTeste.exe
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\ContaTeste\obj\Debug\ContaTeste.pdb
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\bin\Debug\ContaTeste.exe.config
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\bin\Debug\ContaTeste.exe
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\bin\Debug\ContaTeste.pdb
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\bin\Debug\Conta.dll
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\bin\Debug\Conta.pdb
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\obj\Debug\ContaTeste.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\obj\Debug\ContaTeste.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\obj\Debug\ContaTeste.exe
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\ContaTeste\obj\Debug\ContaTeste.pdb

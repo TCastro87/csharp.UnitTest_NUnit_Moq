@@ -1,0 +1,10 @@
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\Conta\bin\Debug\Conta.dll
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\Conta\bin\Debug\Conta.pdb
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\Conta\obj\Debug\Conta.dll
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\Conta\obj\Debug\Conta.pdb
+C:\Users\leona\onedrive\documentos\visual studio 2015\Projects\Banco\Conta\obj\Debug\Conta.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\bin\Debug\Conta.dll
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\bin\Debug\Conta.pdb
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.dll
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.pdb
