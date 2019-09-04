@@ -8,3 +8,4 @@ C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\bin\Debug\Conta.pdb
 C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
 C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.dll
 C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.pdb
+C:\Users\Tiago\source\Repos\TestUnit_NUnit_Moq\Conta\obj\Debug\Conta.csprojResolveAssemblyReference.cache

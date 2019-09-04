@@ -43,7 +43,7 @@ namespace ContaTesteNUnit
         [Category("Valores Inválidos")]
         public void testSacarValorNegativo()
         {
-            bool resultado = conta.Sacar(10);
+            bool resultado = conta.Sacar(-10);
 
             Assert.IsFalse(resultado);
         }

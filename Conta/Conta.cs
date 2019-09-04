@@ -49,6 +49,7 @@ namespace Principal
         {
             bool resultado = false;
 
+            //Definindo limite máximo para empréstimo 
             if (valor >= this.saldo * 10)
             {
                 return resultado;
